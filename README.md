@@ -14,7 +14,7 @@ Aplikasi Streamlit untuk mendeteksi transaksi penipuan menggunakan model Random 
 - Pandas, Numpy
 
 ## 🔗 Demo Online
-🌐 [Buka Aplikasi Streamlit]([https://username-streamlit-projectname.streamlit.app](https://bank-fraud-randomforest-l2f9o8cfnbscbsrc8pz5wv.streamlit.app/))
+🌐 [Buka Aplikasi Streamlit](https://username-streamlit-projectname.streamlit.app](https://bank-fraud-randomforest-l2f9o8cfnbscbsrc8pz5wv.streamlit.app/)
 
 ## 📁 Cara Menjalankan Lokal
 ```bash
